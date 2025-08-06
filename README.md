@@ -1,5 +1,5 @@
 # 💼 Raguram Narayanaswamy <p align="left">
-  <img src="https://github.com/Raguram-N/Hello/blob/main/pic_.jpg" alt="Raguram Profile Photo" width="120" height="150" style="border-radius: 10px;" />
+  <img src="https://github.com/Raguram-N/Hello/blob/main/Pic__.jpg" alt="Raguram Profile Photo" width="120" height="150" style="border-radius: 10px;" />
 </p>
 
 **QA Analyst | AI Innovator | Power BI Developer**
