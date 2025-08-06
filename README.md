@@ -13,6 +13,7 @@
 * 📧 Email: [raguramcdm@gmail.com](mailto:raguramcdm@gmail.com)
 * 📞 Phone: +91 88701 80822
 * 🧑‍💼 Naukri: [Profile](https://www.naukri.com/mnjuser/profile?id=&altresid)
+* 🎓 Education: B.E (2015-2019)
 
  </tr>
 </table>
@@ -29,6 +30,27 @@
 * 📈 Developer of live dashboards with Power BI for daily bug reports & EOD status
 * 🧠 Bridging **manual testing + AI automation + business logic**
 * 🌐 Focused on building **agentic QA copilots** using LLMs, Selenium & PDF blueprints
+
+---
+
+## 🛠️ Technical Skills
+
+### ✅ QA & Testing
+
+* Manual Testing | Test Case Execution | Bug Reporting (JIRA)
+* Root Cause Analysis | Exploratory Testing | Test Planning
+* [Test Plan Management](https://github.com/Raguram-N/Test_Plan_Management)
+* [Test case Design](https://github.com/Raguram-N/Test-case-)
+* [Bug Reporting](https://github.com/Raguram-N/Bug-Reporting)
+
+### ✅ AI & Automation
+
+* Selenium Automation | Python Scripting | LLM Prompting
+* AI Strategy for QA | Agentic AI Systems | Prompt Chaining
+
+### ✅ Reporting & BI
+
+* Power BI Dashboarding | EOD Visual Reports | Data Modeling
 
 ---
 
@@ -52,27 +74,6 @@ A fully functional front-end eCommerce website built for QA test simulations.
 Interactive Power BI dashboard analyzing customer trends, age groups, and balance distribution across regions.
 
 > Tools Used: Power BI, DAX, Slicers, Pie/Stacked Charts, UK Map Visual
-
----
-
-## 🛠️ Technical Skills
-
-### ✅ QA & Testing
-
-* Manual Testing | Test Case Execution | Bug Reporting (JIRA)
-* Root Cause Analysis | Exploratory Testing | Test Planning
-* [Test Plan Management](https://github.com/Raguram-N/Test_Plan_Management)
-* [Test case Design](https://github.com/Raguram-N/Test-case-)
-* [Bug Reporting](https://github.com/Raguram-N/Bug-Reporting)
-
-### ✅ AI & Automation
-
-* Selenium Automation | Python Scripting | LLM Prompting
-* AI Strategy for QA | Agentic AI Systems | Prompt Chaining
-
-### ✅ Reporting & BI
-
-* Power BI Dashboarding | EOD Visual Reports | Data Modeling
 
 ---
 
@@ -129,13 +130,6 @@ Interactive Power BI dashboard analyzing customer trends, age groups, and balanc
   6. Software Tool usage
 
 **🔗 View My Micro1 Certificate** [Micro1](https://github.com/Raguram-N/Certificate_Experienced_QA/blob/main/Certificate.jpg)
-
-## 🎓 Education
-
-**B.E – St. Joseph’s College of Engineering, Chennai**
-* 📅 Graduated in 2019
-* 📍 Chennai, India
-
 
 
 ---
