@@ -17,7 +17,7 @@ Welcome to my GitHub Portfolio! 👋 I'm a passionate **QA professional** with o
 ## 🚀 Featured Projects
 
 
-### 🤖 [Just Click – AI Manual Testing Tool](https://raguram-n.github.io/AI_Manual_Tester/)
+### 🤖 [Just Click – AI Manual Testing Tool](https://github.com/Raguram-N/AI_Manual_Tester)
 
 A human-like **AI manual testing agent** that reads uploaded `.docx` test cases and automates tests using **Selenium**, **LLMs**, and **PDF parsing**.
 
