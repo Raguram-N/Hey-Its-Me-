@@ -1,4 +1,5 @@
-# 💼 Raguram Narayanaswamy – QA Analyst | AI Innovator | Power BI Developer
+# 💼 Raguram Narayanaswamy 
+* QA Analyst | AI Innovator | Power BI Developer
 
 Welcome to my GitHub Portfolio! 👋 I'm a passionate **QA professional** with over **2 years of experience at Amazon**, blending deep manual testing expertise with emerging technologies like **AI automation**, **agentic copilots**, and **data visualization using Power BI**.
 
