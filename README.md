@@ -17,19 +17,19 @@ Welcome to my GitHub Portfolio! 👋 I'm a passionate **QA professional** with o
 ## 🚀 Featured Projects
 
 
-### 🤖 [Just Click – AI Manual Testing Tool](https://github.com/yourusername/just-click)
+### 🤖 [Just Click – AI Manual Testing Tool](https://raguram-n.github.io/AI_Manual_Tester/)
 
 A human-like **AI manual testing agent** that reads uploaded `.docx` test cases and automates tests using **Selenium**, **LLMs**, and **PDF parsing**.
 
 > Built With: Python, Selenium, Flask, OpenAI, Blueprint-to-script logic
 
-### 🛍️ [Shop X – Dummy E-Commerce Platform](https://github.com/yourusername/ecommerce-demo)
+### 🛍️ [Shop X – Dummy E-Commerce Platform](https://github.com/Raguram-N/Shop_X)
 
 A fully functional front-end eCommerce website built for QA test simulations.
 
 > Tech Stack: HTML, CSS, JavaScript
 
-### 📊 [X & Y Bank Power BI Dashboard](https://github.com/yourusername/powerbi-bank-dashboard)
+### 📊 [X & Y Bank Power BI Dashboard](https://github.com/Raguram-N/Power-BI-analysis)
 
 Interactive Power BI dashboard analyzing customer trends, age groups, and balance distribution across regions.
 
