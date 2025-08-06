@@ -71,24 +71,50 @@ Interactive Power BI dashboard analyzing customer trends, age groups, and balanc
 ## 🧑‍💼 Work Experience
 
 **Amazon Development Center**
-📍 Sep 2022 – Dec 2024
-**Associate – Quality Services**
+* **Associate – Quality Services**
+* *📍 Sep 2022 – Dec 2024*
 
-* Executed test cases for web apps, 1P & 3P devices
-* Validated user flows, conducted exploratory & regression testing
-* Collaborated with dev teams for debugging and RCA
-* Built and launched:
+* Executed test cases prepared for testing software builds *(Web, Devices)*
+* Understand testing procedures and guidelines for new builds/releases
+* Validated user flows, Performed regression and repetitive testing exercises to qualify builds without compromising on quality
+* Bug Reporting
+* Bug Tracking
+* Collaborated with dev teams for debugging and bug fix
+* Bug Retest
+* Used software tools for data capture daily
+* Process improvement
+* Root cause analysis
+* Detail reporting using Visualization tool like Power-BI
+
+**Tool Initiatives:**
 
   * 🧠 "Just Click" AI Copilot – [Live Demo](https://raguram-n.github.io/AI_Manual_Tester)
   * 🛒 Shop X eCommerce platform – [Visit Site](https://raguram-n.github.io/Shop_X)
-* Integrated PDF parsing → Selenium → Report generation
-* Implemented agentic reasoning with RAG to simulate intelligent QA flows
+  * Integrated PDF parsing → Selenium → Report generation
+  * Implemented agentic reasoning with RAG to simulate intelligent QA flows
+  * Daily Blocker check Automation tools runs on daily basis which saves time of team associates 
 
 ---
 
+**📜 Micro1 Certificate:**
+
+* ✅ Certification: Associate in Quality Services
+* 🧠 Assessment Type: AI-Powered Interview by Micro1
+* 📅 Completed: August 2025
+* 📍 Validated Skills:
+
+  1. Functional Testing Concepts
+  2.  Bug Tracking & Reporting
+  3. Communication & Collaboration
+  4. Critical Thinking for QA
+  5. Tool Automation Knowledge
+  6. Software Tool usage
+
+**🔗 View My Micro1 Certificate** [Micro1](https://github.com/Raguram-N/Certificate_Experienced_QA/blob/main/Certificate.jpg)
+
 ## 🎓 Education
 
-**B.Tech – St. Joseph’s College of Engineering, Chennai**
+**B.E – St. Joseph’s College of Engineering, Chennai**
 * 📅 Graduated in 2019
 * 📍 Chennai, India
 
