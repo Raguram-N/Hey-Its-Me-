@@ -1,10 +1,24 @@
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Raguram-N/Hello/blob/main/Pic__.jpg" width="150" height="180" style="border-radius:10px;" alt="Raguram's Photo" />
+    </td>
+    <td>
 
-  <img src="https://github.com/Raguram-N/Hello/blob/main/Pic__.jpg" alt="Raguram Profile Photo" width="120" height="150" style="border-radius: 10px;" />
-</p>
 
-# 💼 Raguram Narayanaswamy <p align="left">
-**QA Analyst | AI Innovator | Power BI Developer**
-* Welcome to my GitHub Portfolio! 👋 I'm a passionate **QA professional** with over **2 years of experience at Amazon**, blending deep manual testing expertise with emerging technologies like **AI automation**, **agentic copilots**, and **data visualization using Power BI**.
+# 💼 Raguram Narayanaswamy
+* QA Analyst | AI Innovator | Power BI Developer
+---
+* 📍 Location: Chennai, India
+* 📧 Email: [raguramcdm@gmail.com](mailto:raguramcdm@gmail.com)
+* 📞 Phone: +91 88701 80822
+* 🧑‍💼 Naukri: [Profile](https://www.naukri.com/mnjuser/profile?id=&altresid)
+
+ </tr>
+</table>
+
+
+* Welcome to my GitHub Portfolio!👋 I'm a passionate **QA professional** with over **2 years of experience at Amazon**, blending deep manual testing expertise with emerging technologies like **AI automation**, **agentic copilots**, and **data visualization using Power BI**.
 
 ---
 
