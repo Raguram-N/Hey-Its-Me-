@@ -43,6 +43,8 @@ Interactive Power BI dashboard analyzing customer trends, age groups, and balanc
 
 * Manual Testing | Test Case Execution | Bug Reporting (JIRA)
 * Root Cause Analysis | Exploratory Testing | Test Planning
+* [Test case Design](https://github.com/Raguram-N/Test-case-)
+* [Bug Reporting](https://github.com/Raguram-N/Bug-Reporting)
 
 ### ✅ AI & Automation
 
