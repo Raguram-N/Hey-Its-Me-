@@ -136,14 +136,7 @@ Interactive Power BI dashboard analyzing customer trends, age groups, and balanc
 * 📅 Graduated in 2019
 * 📍 Chennai, India
 
----
 
-## 📍 Personal Info
-
-* 📍 Location: Chennai, India
-* 📧 Email: [raguramcdm@gmail.com](mailto:raguramcdm@gmail.com)
-* 📞 Phone: +91 88701 80822
-* 🧑‍💼 Naukri: [Profile](https://www.naukri.com/mnjuser/profile?id=&altresid)
 
 ---
 
