@@ -1,7 +1,8 @@
-# 💼 Raguram Narayanaswamy <p align="left">
+
   <img src="https://github.com/Raguram-N/Hello/blob/main/Pic__.jpg" alt="Raguram Profile Photo" width="120" height="150" style="border-radius: 10px;" />
 </p>
 
+# 💼 Raguram Narayanaswamy <p align="left">
 **QA Analyst | AI Innovator | Power BI Developer**
 * Welcome to my GitHub Portfolio! 👋 I'm a passionate **QA professional** with over **2 years of experience at Amazon**, blending deep manual testing expertise with emerging technologies like **AI automation**, **agentic copilots**, and **data visualization using Power BI**.
 
