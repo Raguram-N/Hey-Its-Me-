@@ -89,10 +89,7 @@ Interactive Power BI dashboard analyzing customer trends, age groups, and balanc
 
 ## 🧑‍💼 Work Experience
 
-**Amazon Development Center**
-* **Associate – Quality Services**
-* *📍 Sep 2022 – Dec 2024*
-
+**Associate – Quality Services** ( *Amazon Development Center - Sep 2022 – Dec 2024*)
 * Executed test cases prepared for testing software builds *(Web, Devices)*
 * Understand testing procedures and guidelines for new builds/releases
 * Validated user flows, Performed regression and repetitive testing exercises to qualify builds without compromising on quality
