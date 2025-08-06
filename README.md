@@ -48,7 +48,7 @@
 * Selenium Automation | Python Scripting | LLM Prompting
 * AI Strategy for QA | Agentic AI Systems | Prompt Chaining
 
-### ✅ Reporting & BI
+### ✅ Reporting 
 
 * Power BI Dashboarding | EOD Visual Reports | Data Modeling
 
