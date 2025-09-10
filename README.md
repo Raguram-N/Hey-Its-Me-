@@ -39,6 +39,7 @@
 
 * Manual Testing | Test Case Execution | Bug Reporting (JIRA)
 * Root Cause Analysis | Exploratory Testing | Test Planning
+* [portfolio](https://github.com/Raguram-N/My_QA_Sample_Project/blob/main/README.md)
 * [Test Plan Management](https://github.com/Raguram-N/Test_Plan_Management)
 * [Test case Design](https://github.com/Raguram-N/Test-case-)
 * [Bug Reporting](https://github.com/Raguram-N/Bug-Reporting)
