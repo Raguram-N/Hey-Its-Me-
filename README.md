@@ -19,7 +19,7 @@
 </table>
 
 
-* Welcome to my GitHub Portfolio!👋 I'm a passionate **QA professional** with over **2 years of experience at Amazon**, blending deep manual testing expertise with emerging technologies like **AI automation**, **agentic copilots**, and **data visualization using Power BI**.
+* Welcome to my GitHub Portfolio!👋 I'm a passionate **QA professional** with **over 2 years of experience at Amazon**, blending deep manual testing expertise with emerging technologies like **AI automation**, **agentic copilots**, and **data visualization using Power BI**.
 
 ---
 
