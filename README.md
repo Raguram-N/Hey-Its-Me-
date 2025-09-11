@@ -7,7 +7,7 @@
 
 
 # 💼 Raguram Narayanaswamy
-* QA Analyst | AI Innovator | Power BI Developer
+* Manual & Automation Testing | Power BI | UX Enthusiast
 ---
 * 📍 Location: Chennai, India
 * 📧 Email: [raguramcdm@gmail.com](mailto:raguramcdm@gmail.com)
